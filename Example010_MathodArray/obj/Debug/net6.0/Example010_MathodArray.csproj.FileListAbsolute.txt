@@ -1,0 +1,16 @@
+D:\Untitled\Examples\Example010_MathodArray\obj\Debug\net6.0\Example010_MathodArray.GlobalUsings.g.cs
+D:\Untitled\Examples\Example010_MathodArray\obj\Debug\net6.0\Example010_MathodArray.csproj.AssemblyReference.cache
+D:\Untitled\Examples\Example010_MathodArray\obj\Debug\net6.0\Example010_MathodArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Untitled\Examples\Example010_MathodArray\obj\Debug\net6.0\Example010_MathodArray.AssemblyInfoInputs.cache
+D:\Untitled\Examples\Example010_MathodArray\obj\Debug\net6.0\Example010_MathodArray.AssemblyInfo.cs
+D:\Untitled\Examples\Example010_MathodArray\obj\Debug\net6.0\Example010_MathodArray.csproj.CoreCompileInputs.cache
+D:\Untitled\Examples\Example010_MathodArray\bin\Debug\net6.0\Example010_MathodArray.exe
+D:\Untitled\Examples\Example010_MathodArray\bin\Debug\net6.0\Example010_MathodArray.deps.json
+D:\Untitled\Examples\Example010_MathodArray\bin\Debug\net6.0\Example010_MathodArray.runtimeconfig.json
+D:\Untitled\Examples\Example010_MathodArray\bin\Debug\net6.0\Example010_MathodArray.dll
+D:\Untitled\Examples\Example010_MathodArray\bin\Debug\net6.0\ref\Example010_MathodArray.dll
+D:\Untitled\Examples\Example010_MathodArray\bin\Debug\net6.0\Example010_MathodArray.pdb
+D:\Untitled\Examples\Example010_MathodArray\obj\Debug\net6.0\Example010_MathodArray.dll
+D:\Untitled\Examples\Example010_MathodArray\obj\Debug\net6.0\ref\Example010_MathodArray.dll
+D:\Untitled\Examples\Example010_MathodArray\obj\Debug\net6.0\Example010_MathodArray.pdb
+D:\Untitled\Examples\Example010_MathodArray\obj\Debug\net6.0\Example010_MathodArray.genruntimeconfig.cache
