@@ -1,0 +1,16 @@
+D:\Untitled\Examples\Example014_Exother\obj\Debug\net6.0\Example014_Exother.GlobalUsings.g.cs
+D:\Untitled\Examples\Example014_Exother\obj\Debug\net6.0\Example014_Exother.csproj.AssemblyReference.cache
+D:\Untitled\Examples\Example014_Exother\obj\Debug\net6.0\Example014_Exother.GeneratedMSBuildEditorConfig.editorconfig
+D:\Untitled\Examples\Example014_Exother\obj\Debug\net6.0\Example014_Exother.AssemblyInfoInputs.cache
+D:\Untitled\Examples\Example014_Exother\obj\Debug\net6.0\Example014_Exother.AssemblyInfo.cs
+D:\Untitled\Examples\Example014_Exother\obj\Debug\net6.0\Example014_Exother.csproj.CoreCompileInputs.cache
+D:\Untitled\Examples\Example014_Exother\bin\Debug\net6.0\Example014_Exother.exe
+D:\Untitled\Examples\Example014_Exother\bin\Debug\net6.0\Example014_Exother.deps.json
+D:\Untitled\Examples\Example014_Exother\bin\Debug\net6.0\Example014_Exother.runtimeconfig.json
+D:\Untitled\Examples\Example014_Exother\bin\Debug\net6.0\Example014_Exother.dll
+D:\Untitled\Examples\Example014_Exother\bin\Debug\net6.0\ref\Example014_Exother.dll
+D:\Untitled\Examples\Example014_Exother\bin\Debug\net6.0\Example014_Exother.pdb
+D:\Untitled\Examples\Example014_Exother\obj\Debug\net6.0\Example014_Exother.dll
+D:\Untitled\Examples\Example014_Exother\obj\Debug\net6.0\ref\Example014_Exother.dll
+D:\Untitled\Examples\Example014_Exother\obj\Debug\net6.0\Example014_Exother.pdb
+D:\Untitled\Examples\Example014_Exother\obj\Debug\net6.0\Example014_Exother.genruntimeconfig.cache
